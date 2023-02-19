@@ -6,14 +6,12 @@ There are many ways through which you can handle an imbalanced dataset. Some req
 
 We have applied various other techniques to handle an imbalanced dataset in this notebook and then comapre the result with different models.
 
-## Dataset
+## Imbalanced Dataset
 
   
   <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/82312885/219968300-431c1c29-15de-449c-85b5-6754749b0690.png">
-  
-  
-   Imbalanced dataset
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/82312885/219968300-431c1c29-15de-449c-85b5-6754749b0690.png"> 
+   
 </p>
 
    
