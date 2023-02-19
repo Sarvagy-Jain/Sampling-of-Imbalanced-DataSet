@@ -17,7 +17,9 @@ We have applied various other techniques to handle an imbalanced dataset in this
 3.  TOMEK links 
 4.  Synthetic Minority Oversampling Technique, or SMOTE .
 5.  Near Miss
-...
+
+
+
 5 Machine Learning Models  have been implemented for Comparison:
 
 1.  Support Vector Machine
