@@ -36,15 +36,23 @@ We have applied various other techniques to handle an imbalanced dataset in this
 3.  RandomForestClassifier	
 4.  KNeighborsClassifier	
 5.  GaussianNB	
-
-
-### Score 
-
+6.  
 
 ## Result:
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/82312885/219968860-35c65ab1-ab40-40b3-a7e6-4f8381f3e2ef.png"> 
+</p>
 
 
 
 ## Conclusion:
+
+Accuracy is better with Sampling Techniques with specific Models.
+
+1.  Support Vector Machine with NearMiss
+2.  Randon Forest Classifier with Random Over Sampling and Tomlinks
+3.  KNeighborsClassifier with Random Under Sampling and Near Miss
+4.  Gaussian with Near Miss 
 
 
