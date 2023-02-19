@@ -11,6 +11,8 @@ We have applied various other techniques to handle an imbalanced dataset in this
   
   <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/82312885/219968300-431c1c29-15de-449c-85b5-6754749b0690.png">
+  
+  
    Imbalanced dataset
 </p>
 
