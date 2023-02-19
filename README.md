@@ -1,4 +1,4 @@
-# Sampling-of-Imbalanced-DataSet-
+# Sampling-of-Imbalanced-DataSet
 
 ## Introduction
 When working with imbalanced data, The minority class is our interest most of the time.So, the machine learning algorithms favor the larger class and sometimes even ignore the smaller class if the data is highly imbalanced.Machine learning algorithms are designed to learn from the training data to minimize the loss and maximize accuracy.
