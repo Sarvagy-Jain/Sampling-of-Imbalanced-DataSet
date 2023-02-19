@@ -9,6 +9,7 @@ We have applied various other techniques to handle an imbalanced dataset in this
 ## UnderStanding the Data
 
 ![image](https://user-images.githubusercontent.com/82312885/219968300-431c1c29-15de-449c-85b5-6754749b0690.png)
+
 Imbalanced dataset
 
 
@@ -37,7 +38,9 @@ Imbalanced dataset
 
 
 ## Result:
-![image](https://user-images.githubusercontent.com/82312885/219967508-f4359a6e-6c79-42ee-bf36-16065caabea4.png)
+
 
 
 ## Conclusion:
+
+
