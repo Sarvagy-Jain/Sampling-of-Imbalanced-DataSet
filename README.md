@@ -41,7 +41,7 @@ We have applied various other techniques to handle an imbalanced dataset in this
 ## Result:
 
 <p align="center">
-  <img width="600" height="300" src="https://user-images.githubusercontent.com/82312885/219968860-35c65ab1-ab40-40b3-a7e6-4f8381f3e2ef.png"> 
+  <img width="800" height="200" src="https://user-images.githubusercontent.com/82312885/219968860-35c65ab1-ab40-40b3-a7e6-4f8381f3e2ef.png"> 
 </p>
 
 
