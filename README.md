@@ -6,11 +6,15 @@ There are many ways through which you can handle an imbalanced dataset. Some req
 
 We have applied various other techniques to handle an imbalanced dataset in this notebook and then comapre the result with different models.
 
+## UnderStanding the Data
+
+![image](https://user-images.githubusercontent.com/82312885/219968300-431c1c29-15de-449c-85b5-6754749b0690.png)
+Imbalanced dataset
 
 
 ## Sampling Techniques and Model
 
-5 Sampling Techniques have been implemented:
+### 5 Sampling Techniques have been implemented:
 
 1.  Random Under Sampling
 2.  Random Over Sampling
@@ -20,7 +24,7 @@ We have applied various other techniques to handle an imbalanced dataset in this
 
 
 
-5 Machine Learning Models  have been implemented for Comparison:
+### 5 Machine Learning Models  have been implemented for Comparison:
 
 1.  Support Vector Machine
 2.  Decision-Tree -Classifier	
@@ -28,7 +32,12 @@ We have applied various other techniques to handle an imbalanced dataset in this
 4.  KNeighborsClassifier	
 5.  GaussianNB	
 
+
+### Score 
+
+
 ## Result:
-
-
 ![image](https://user-images.githubusercontent.com/82312885/219967508-f4359a6e-6c79-42ee-bf36-16065caabea4.png)
+
+
+## Conclusion:
