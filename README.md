@@ -51,8 +51,8 @@ We have applied various other techniques to handle an imbalanced dataset in this
 Accuracy is better with Sampling Techniques with specific Models.
 
 1.  Support Vector Machine with NearMiss
-2.  Randon Forest Classifier with Random Over Sampling and Tomlinks
-3.  KNeighborsClassifier with Random Under Sampling and Near Miss
-4.  Gaussian with Near Miss 
+2.  Randon Forest Classifier with Random Over Sampling and TomLinks
+3.  KNeighborsClassifier with Random Under Sampling and NearMiss
+4.  Gaussian with NearMiss 
 
 
