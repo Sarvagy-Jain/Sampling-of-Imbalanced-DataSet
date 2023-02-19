@@ -8,3 +8,4 @@ We have applied various other techniques to handle an imbalanced dataset in this
 
 
 
+![image](https://user-images.githubusercontent.com/82312885/219967508-f4359a6e-6c79-42ee-bf36-16065caabea4.png)
