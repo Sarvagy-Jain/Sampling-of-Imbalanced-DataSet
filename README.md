@@ -1,37 +1,8 @@
-# Foobar
+# Sampling-of-Imbalanced-DataSet-
 
-Foobar is a Python library for dealing with word pluralization.
+When working with imbalanced data, The minority class is our interest most of the time.So, the machine learning algorithms favor the larger class and sometimes even ignore the smaller class if the data is highly imbalanced.Machine learning algorithms are designed to learn from the training data to minimize the loss and maximize accuracy.
+There are many ways through which you can handle an imbalanced dataset. Some require you to have field knowledge others use different algorithms to increase the instances of minority class (Over-sampling) and to decrease the instances of majority class (Under-sampling).
 
-## Installation
+We have applied various other techniques to handle an imbalanced dataset in this notebook and then comapre the result with different models.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
